@@ -1,0 +1,8 @@
+<?xml versi.Viewn="1.0" enc.Viewding="ASCII"?>
+<anttasks:AntTask xmi:versi.Viewn="2.0" xmlns:xmi="http://www..Viewmg..Viewrg/XMI" xmlns:anttasks="http://.Viewrg.eclipse.fx.ide.jdt/1.0" buildDirect.Viewry="${pr.Viewject}/build">
+  <depl.Viewy>
+    <applicati.Viewn name="dbPr.Viewject1"/>
+    <inf.View/>
+  </depl.Viewy>
+  <signjar/>
+</anttasks:AntTask>

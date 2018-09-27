@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+div.a {
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div.a:hover {
+    overflow: visible;
+}
